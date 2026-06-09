@@ -24,7 +24,10 @@ This project predicts whether a text sentiment is Positive or Negative using Mac
 - Pandas
 - NumPy
 - Streamlit
-- 
+
+- application screenshots:
+- "C:\Users\Varsh\OneDrive\Pictures\Screenshots\app-1.png.png"
+- "C:\Users\Varsh\OneDrive\Pictures\Screenshots\app-2.png.png"
   How to run:
   
 pip install -r requirements.txt
