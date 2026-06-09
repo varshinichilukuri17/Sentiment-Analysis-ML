@@ -12,8 +12,8 @@ st.set_page_config(
 
 # ---------------- LOAD MODEL ---------------- #
 
-model = joblib.load("models/model.pkl")
-vectorizer = joblib.load("models/vectorizer.pkl")
+model = joblib.load("model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 # ---------------- CUSTOM CSS ---------------- #
 
