@@ -1,5 +1,4 @@
- CinePulse-AI
-AI-powered movie recommendation and sentiment analysis system.
+
  Sentiment Analysis using Machine Learning
 
  Overview
@@ -30,3 +29,6 @@ This project predicts whether a text sentiment is Positive or Negative using Mac
   
 pip install -r requirements.txt
 streamlit run app.py
+
+Author
+ Varshini Chilukuri
